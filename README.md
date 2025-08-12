@@ -21,3 +21,4 @@ def get_motivation():
 if __name__ == "__main__":
     print("🌟 Today's Motivational Message:")
     print(get_motivation())
+input()
