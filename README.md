@@ -16,6 +16,7 @@ def get_motivation():
         "Success starts with showing up.",
         "Your potential is endless.",
         "One day or day one — you decide."
+                "easy come easy go"
     ]
     return random.choice(messages)
 
