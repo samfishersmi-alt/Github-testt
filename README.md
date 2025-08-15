@@ -1,7 +1,6 @@
 # Github-testt
 ''' this is only a test for github'''
 first repo
-import matplotlib
 import random
 import time
 def get_motivation():
@@ -18,8 +17,9 @@ def get_motivation():
         "One day or day one — you decide."
                 "easy come easy go"
     ]
-    return random.choice(messages)
+________"early bird cathes the worm"
 
+    return random.choice(messages)
 if __name__ == "__main__":
     print("🌟 Today's Motivational Message:")
     print(get_motivation())
