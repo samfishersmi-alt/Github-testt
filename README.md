@@ -18,7 +18,7 @@ def get_motivation():
                 "easy come easy go"
     ]
 ________"early bird cathes the worm"
-
+_________"گر بلبل دهد صدای طوطی، بچه خوشگله کند ادعای لوتی!"
     return random.choice(messages)
 if __name__ == "__main__":
     print("🌟 Today's Motivational Message:")
