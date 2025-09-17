@@ -2,7 +2,6 @@
 ''' this is only a test for github'''
 first repo
 import random
-import time
 def get_motivation():
     messages = [
         "You’ve got this! Just start.",
