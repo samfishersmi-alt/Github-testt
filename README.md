@@ -19,7 +19,7 @@ def get_motivation():
 ________"early bird cathes the worm"
 _________"گر بلبل دهد صدای طوطی، بچه خوشگله کند ادعای لوتی!"
 "گر تو شاعری بنده شیرم/به دور گردنت پیچیده دیکَم"
-"تیر تو کمان کمان تو تیر"
+
 "Don't judje a book by its cover "
 "No pain No gain!"
     return random.choice(messages)
